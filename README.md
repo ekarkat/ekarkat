@@ -1,7 +1,3 @@
-<picture>
-https://camo.githubusercontent.com/3e95421342fa70af5fd6d50e59591da8c865e5a76432ab429286ce4d1d49ff8c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d686561646572
-<picture>
-
 <h2 align="left">Greetings! I'm Mehdi kerdoud a passionate developer junior  🎓</h2>
 
 ###
@@ -49,11 +45,6 @@ https://camo.githubusercontent.com/3e95421342fa70af5fd6d50e59591da8c865e5a76432a
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 ###
 
 <div align="center">
