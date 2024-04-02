@@ -9,8 +9,9 @@
 </div>
 
 
-![image](https://github.com/ekarkat/ekarkat/assets/125473343/7086ce4f-1c8a-4122-b45c-b28e1ce05bb0)
-
+<div align="center">
+  <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="Banner GIF" width="100%">
+</div> 
 
 ###
 
