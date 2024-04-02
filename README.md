@@ -8,6 +8,10 @@
   <img src="https://streak-stats.demolab.com?user=ekarkat&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
+
+![image](https://github.com/ekarkat/ekarkat/assets/125473343/7086ce4f-1c8a-4122-b45c-b28e1ce05bb0)
+
+
 ###
 
 <h3 align="left">Languages and Tools:</h3>
