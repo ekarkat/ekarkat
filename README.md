@@ -1,5 +1,4 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-
 <h2 align="left">Greetings! I'm Mehdi kerdoud a passionate developer junior  🎓</h2>
 
 ###
@@ -54,3 +53,4 @@
 </div>
 
 ###
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
