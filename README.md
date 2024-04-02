@@ -1,4 +1,4 @@
-<h2 align="left">Greetings! I'm Mehdi kerdoud a passionate software developer junior  🎓</h2>
+<h2 align="left">Greetings! I'm Mehdi kerdoud a passionate developer junior  🎓</h2>
 
 ###
 
@@ -45,8 +45,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ekarkat/ekarkat/output/snake.svg" alt="Snake animation" />
-
+[![Al Mahdi Kerdoud profile views](https://u8views.com/api/v1/github/profiles/125473343/views/day-week-month-total-count.svg)](https://u8views.com/github/ekarkat)
 ###
 
 <div align="center">
