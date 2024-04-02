@@ -1,17 +1,16 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 <h2 align="left">Greetings! I'm Mehdi kerdoud a passionate developer junior  🎓</h2>
 
+<div align="center">
+  <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="Banner GIF" width="100%">
+</div> 
+
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ekarkat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ekarkat&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
-
-
-<div align="center">
-  <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="Banner GIF" width="100%">
-</div> 
 
 ###
 
