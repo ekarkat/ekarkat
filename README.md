@@ -1,5 +1,5 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-<h2 align="left">Greetings! I'm Mehdi kerdoud a passionate junior developer  🎓</h2>
+<h2 align="left">Greetings! I'm Mehdi a passionate developer  🎓</h2>
 
 <div align="center">
   <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="Banner GIF" width="100%">
