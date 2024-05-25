@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=150&color=4a0108&text=Hello%20world&reversal=true&fontAlignY=30&fontAlign=84&descAlign=3&descAlignY=31&animation=blink&fontSize=40&fontColor=242223&textBg=false&descSize=60&desc=X)
+![](https://capsule-render.vercel.app/api?type=waving&height=100&color=80284e&text=Hello%20world&reversal=true&fontAlignY=19&fontAlign=84&descAlign=3&descAlignY=31&animation=blink&fontSize=34&fontColor=030202&textBg=false&descSize=60&desc=X)
 <h2 align="left">Greetings! I'm Mehdi a passionate developer  🎓</h2>
 
 <div align="center">
