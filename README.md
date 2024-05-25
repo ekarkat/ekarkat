@@ -57,4 +57,4 @@
 </div>
 
 ###
-![](https://capsule-render.vercel.app/api?type=waving&height=115&color=80284e&text=Hello%20world&reversal=true&fontAlignY=78&fontAlign=84&descAlign=3&descAlignY=81&animation=blink&fontSize=34&fontColor=030202&textBg=false&descSize=60&desc=X&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&height=115&color=80284e&text=X&reversal=true&fontAlignY=81&fontAlign=97&descAlign=3&descAlignY=81&animation=blink&fontSize=60&fontColor=030202&textBg=false&descSize=60&desc=X&section=footer)
